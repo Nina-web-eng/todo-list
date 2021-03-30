@@ -13,4 +13,6 @@
 * 將代辦事項寫入資料庫，同步更新網頁及localStorage
   >加入代辦事項的函式
 
+* 把存在localStorage裡的資料渲染至網頁:updateList(database)
+
 * 刪除代辦事項
